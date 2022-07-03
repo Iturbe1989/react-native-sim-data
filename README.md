@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/pocesar/react-native-sim-data.svg?branch=master)](https://travis-ci.org/pocesar/react-native-sim-data) [![npm version](https://badge.fury.io/js/react-native-sim-data.svg)](https://badge.fury.io/js/react-native-sim-data)
+[![Build Status](https://travis-ci.org/Iturbe1989/react-native-sim-data.svg?branch=master)](https://travis-ci.org/Iturbe1989/react-native-sim-data) [![npm version](https://badge.fury.io/js/react-native-sim-data.svg)](https://badge.fury.io/js/react-native-sim-data)
 
 # react-native-sim-data
 
@@ -18,7 +18,7 @@ $ react-native link react-native-sim-data
 ## Usage
 
 ```es6
-import RNSimData from 'react-native-sim-data'
+import RNSimData from `react-native-sim-data`
 
 RNSimData.getSimInfo().deviceId0
 /**
